@@ -1,12 +1,10 @@
 # HR Analytics & Attrition Dashboard
 
-Porject Business Intelligence menggunakan Microsoft Power BI untuk menganalisis karakteristik tenaga kerja dan pola employee attrition. Data diproses dan ditransformasi menggunakan Power Query melalui fitur Transform Data, kemudian divisualisasikan dalam bentuk dashboard interaktif untuk memberikan gambaran mengenai kondisi workforce dan attrition dari berbagai perspektif HR.
-
 ## Gambaran Umum
 
-Project ini menganalisis data karyawan untuk memahami distribusi workforce dan pola employee attrition berdasarkan berbagai karakteristik, seperti department, salary slab, job role, job satisfaction, gender, age group, dan work experience.
+Project Business Intelligence menggunakan Microsoft Power BI dengan menganalisis data karyawan untuk memahami distribusi workforce dan pola employee attrition berdasarkan berbagai karakteristik, seperti department, salary slab, job role, job satisfaction, gender, age group, dan work experience.
 
-Proses pengolahan data dilakukan secara langsung di Power BI menggunakan Power Query. Data yang telah dipreprocess kemudian digunakan untuk membangun dashboard interaktif yang menyajikan KPI dan berbagai visualisasi HR analytics.
+Proses pengolahan data dilakukan secara langsung di Power BI menggunakan Power Query. Data yang telah dipreprocess kemudian digunakan untuk membangun dashboard interaktif yang menyajikan KPI dan berbagai visualisasi HR analytics untuk memberikan gambaran mengenai kondisi workforce dan attrition dari berbagai perspektif HR.
 
 ## Dataset
 
@@ -28,11 +26,9 @@ Tahapan preprocessing meliputi:
 - Removing unnecessary columns
 - Creating conditional columns
 
-## Dashboard
+## Tujuan Analisis
 
-Dashboard interaktif dikembangkan menggunakan Microsoft Power BI untuk memberikan overview mengenai workforce dan employee attrition.
-
-Dashboard mencakup 6 key HR metrics:
+Analisis dilakukan untuk emngembangkan dashboard interaktif menggunakan Microsoft Power BI untuk memberikan overview mengenai workforce dan employee attrition yang mencakup 6 key HR metrics:
 
 | KPI | Value |
 |---|---:|
@@ -42,8 +38,6 @@ Dashboard mencakup 6 key HR metrics:
 | Attrition Rate | **16.30%** |
 | Average Age | **36.94** |
 | Average Experience | **7.04 years** |
-
-### Dashboard Analysis
 
 Dashboard menyediakan berbagai visualisasi untuk menganalisis employee attrition dan workforce distribution, meliputi:
 
@@ -71,7 +65,7 @@ Dashboard juga dilengkapi dengan **Department filter** untuk memungkinkan eksplo
 - Business Intelligence
 - Dashboard Development
 
-## Workflow
+## Alur Analisis
 
 ```text
 Raw Data
