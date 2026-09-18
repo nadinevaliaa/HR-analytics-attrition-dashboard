@@ -76,6 +76,6 @@ Data Preprocessing & Transformation
     ↓
 Data Analysis
     ↓
-Power BI Dashboard
+Power BI Visualization
     ↓
-HR Insights
+Insights
